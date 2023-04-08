@@ -4,19 +4,19 @@
 
 **Hard skills:**
 
-■ Android SDK, ~Android~ ~Studio~~,~ ~IntelliJ~ ~IDEA~
-■ Retrofit2, ~OkHTTP~
-■ Coroutines, ~RxJava2/3~
-■ Activities, Fragments, Jetpack Compose, Collections, Views
-■ MVVM, TDD, Clean Architecture *(SOLID / OOP)*
-■ Git
-■ *Base knowledges of SQL*
+* Android SDK, Android Studio, IntelliJ IDEA
+* Retrofit2, OkHTTP
+* Coroutines, RxJava2/3
+* Activities, Fragments, Jetpack Compose, Collections, Views
+* MVVM, TDD, Clean Architecture *(SOLID / OOP)*
+* Git
+* *Base knowledges of SQL*
 
 **Soft skills:**
-■ **English B2** *(Upper-Intermediate)*
-■  *Russian C2* *(Native)*
-■ *Sociable, communicative*
-■ *Ambitious and learn fast*
+* **English B2** *(Upper-Intermediate)*
+*  *Russian C2* *(Native)*
+* *Sociable, communicative*
+* *Ambitious and learn fast*
 
 Skills: **KOTLIN** / *JAVA* / ~~C++~~
 
