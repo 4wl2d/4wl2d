@@ -7,7 +7,7 @@
 * Android SDK, Android Studio, IntelliJ IDEA
 * Retrofit2, OkHTTP
 * Coroutines, RxJava2/3
-* Activities, Fragments, Jetpack Compose, Collections, Views
+* Jetpack Compose, Views
 * MVVM, TDD, Clean Architecture *(SOLID / OOP)*
 * Git
 * *Base knowledges of SQL*
