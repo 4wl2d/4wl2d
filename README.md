@@ -2,7 +2,7 @@
 #### I am Android Developer
 ![I am Android Developer](https://ie.wampi.ru/2023/04/08/New-Project.jpg)
 
-![**Hard skills:**]
+**Hard skills:**
 
 * Android SDK, Android Studio, IntelliJ IDEA
 * Retrofit2, OkHTTP
@@ -12,7 +12,7 @@
 * Git
 * *Base knowledges of SQL*
 
-![**Soft skills:**]
+**Soft skills:**
 * **English B2** *(Upper-Intermediate)*
 *  *Russian C2* *(Native)*
 * *Sociable, communicative*
