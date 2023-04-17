@@ -1,23 +1,27 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&size=35&duration=3000&pause=500&color=000000&background=FFFFFF&vCenter=true&multiline=true&repeat=false&width=700&height=95&lines=Hi+there%2C%F0%9F%91%8B+my+name+is+Vladislav;I+am+Android+Developer%F0%9F%93%B1)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&height=90&lines=Hi+there%2C%F0%9F%91%8Bmy+name+is+Vladislav;I%60m+Android+Developer%F0%9F%93%B1)](https://git.io/typing-svg)
 ![I am Android Developer](https://ie.wampi.ru/2023/04/08/New-Project.jpg)
 
-**Hard skills:**
+<h2 align="center"> </h2>
+<h1 align="center"> Hard skills: </h1>
 
-* Android SDK, Android Studio, IntelliJ IDEA
-* Retrofit2, OkHTTP3, Firebase
-* Coroutines, RxJava2/3
-* Jetpack Compose, Views
-* MVVM, TDD, Clean Architecture *(SOLID / OOP)*
-* Git
-* *Base knowledges of SQL*
+<h4 align="center"> Android SDK, Android Studio, IntelliJ IDEA </h4>
+<h4 align="center"> Retrofit2, OkHTTP3, Firebase </h4>
+<h4 align="center"> Coroutines, RxJava2/3 </h4>
+<h4 align="center"> Jetpack Compose, Views </h4>
+<h4 align="center"> MVVM, TDD, Clean Architecture (SOLID | OOP) </h4>
+<h4 align="center"> Base knowledges of SQL </h4>
+<h4 align="center"> Git </h4>
 
-**Soft skills:**
-* **English B2** *(Upper-Intermediate)*
-*  *Russian C2* *(Native)*
-* *Sociable, communicative*
-* *Ambitious and learn fast*
+<h2 align="center"> </h2>
+<h1 align="center"> Soft skills: </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&pause=1000&color=000000&background=FFFFFF&vCenter=true&repeat=false&width=435&lines=Languages+i+prefer%3A)](https://git.io/typing-svg)
+<h4 align="center"> English B2 (Upper-Intermediate) </h4>
+<h4 align="center"> Russian C2 (Native) </h4>
+<h4 align="center"> Sociable, communicative </h4>
+<h4 align="center"> Ambitious and learn fast </h4>
+<h2 align="center"> </h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=Languages+i+prefer%3A)](https://git.io/typing-svg)
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -28,7 +32,7 @@
 - 📫 How to reach me: https://t.me/truej33se 
 - ⚡ Fun fact: ex pro e-sports player
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&background=FFFFFF&vCenter=true&repeat=false&width=435&lines=My+LeetCode+stats%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=My+LeetCode+stats%3A)](https://git.io/typing-svg)
 
 [![4wl2d's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=truej33se)](https://leetcode.com/truej33se/)
 
