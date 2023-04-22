@@ -10,7 +10,7 @@
 <h4 align="center"> Jetpack Compose, Views </h4>
 <h4 align="center"> MVVM, TDD, Clean Architecture (SOLID | OOP) </h4>
 <h4 align="center"> Base knowledges of SQL </h4>
-<h4 align="center"> Git </h4>
+<h4 align="center"> Git, Jira, YouGile </h4>
 
 <h2 align="center"> </h2>
 <h1 align="center"> Soft skills: </h1>
