@@ -19,6 +19,7 @@
 <h4 align="center"> Russian C2 (Native) </h4>
 <h4 align="center"> Sociable, communicative </h4>
 <h4 align="center"> Ambitious and learn fast </h4>
+<h4 align="center"> Persistent, result-oriented </h4>
 <h2 align="center"> </h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=Languages+i+prefer%3A)](https://git.io/typing-svg)
