@@ -42,9 +42,9 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=4wl2d)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=4wl2d)
 
-[![Top Langs](https://github-readme-stats-4wl2d.vercel.app/api/top-langs/?username=4wl2d)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-4wl2d.vercel.app/api/top-langs/?username=4wl2d)
 
 ![GitHub stats](https://github-readme-stats-4wl2d.vercel.app/api?username=4wl2d&show_icons=true)  
 
