@@ -5,9 +5,9 @@
 <h1 align="center"> Hard skills: </h1>
 
 <h4 align="center"> Android SDK, Android Studio, IntelliJ IDEA </h4>
-<h4 align="center"> Retrofit2, OkHTTP3, Firebase </h4>
+<h4 align="center"> Room, Retrofit2, OkHTTP3, Firebase </h4>
 <h4 align="center"> Coroutines, RxJava2/3 </h4>
-<h4 align="center"> Jetpack Compose, Views </h4>
+<h4 align="center"> Jetpack Compose, Dagger Hilt(DI), Views </h4>
 <h4 align="center"> MVVM, TDD, Clean Architecture (SOLID | OOP) </h4>
 <h4 align="center"> Base knowledges of SQL(PostgreSQL, MySQL) </h4>
 <h4 align="center"> Navigation Components </h4>
