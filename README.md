@@ -30,7 +30,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - 🔭 I’m currently working on Proton IT
-- 🌱 I’m currently learning study methods for myself
+- 🌱 I’m currently learning Kobweb
 - 📫 How to reach me: https://t.me/truej33se
 - ⚡ Fun fact: ex pro e-sports player
 
