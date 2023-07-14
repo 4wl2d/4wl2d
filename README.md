@@ -29,7 +29,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working freelance
+- 🔭 I’m currently searching for a job
 - 🌱 I’m currently learning Clean Architecture and Coroutines
 - 📫 How to reach me: https://t.me/truej33se
 - ⚡ Fun fact: ex pro e-sports player
