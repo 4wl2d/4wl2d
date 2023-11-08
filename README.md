@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&height=90&lines=Hi+there%2C%F0%9F%91%8Bmy+name+is+Vladislav;I%60m+Android+Developer%F0%9F%93%B1)](https://git.io/typing-svg)
-![I am Android Developer](https://ie.wampi.ru/2023/04/08/New-Project.jpg)
+![I am Android Developer](https://i.postimg.cc/KvRVRcFx/68747470733a2f2f69652e77616d70692e72752f323032332f30342f30382f4e65772d50726f6a6563742e6a7067.png)
 
 <h2 align="center"> </h2>
 <h1 align="center"> Hard skills: </h1>
