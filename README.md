@@ -6,8 +6,8 @@
 
 <h4 align="center"> Android SDK, Android Studio, IntelliJ IDEA </h4>
 <h4 align="center"> XML and Jetpack Compose </h4>
-<h4 align="center"> Room, Retrofit2, OkHTTP3, Firebase </h4>
-<h4 align="center"> Coroutines, RxJava2/3 </h4>
+<h4 align="center"> Retrofit2, OkHTTP3, Firebase </h4>
+<h4 align="center"> Coroutines </h4>
 <h4 align="center"> Koin, Dagger </h4>
 <h4 align="center"> Clean Architecture(with MVVM) </h4>
 <h4 align="center"> Base knowledges of SQL(PostgreSQL, MySQL) </h4>
