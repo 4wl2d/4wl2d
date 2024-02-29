@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently delving in Clean Architecture and Coroutines
-- 📫 How to reach me: https://t.me/truej33se
+- 📫 How to reach me: https://t.me/truejke
 - ⚡ Fun fact: apex legends e-sports player
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=My+LeetCode+stats%3A)](https://git.io/typing-svg)
