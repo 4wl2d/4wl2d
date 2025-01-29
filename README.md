@@ -37,7 +37,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=My+LeetCode+stats%3A)](https://git.io/typing-svg)
 
-[![4wl2d's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=truej33se)](https://leetcode.com/truej33se/)
+[![4wl2d's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=4wl2d)](https://leetcode.com/4wl2d/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/4wl2d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/4wl2d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/truej33se/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tru33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/4wl2d/)  
 
