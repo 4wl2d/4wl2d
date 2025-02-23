@@ -6,18 +6,18 @@
 
 <h4 align="center"> Android SDK, Android Studio, IntelliJ IDEA </h4>
 <h4 align="center"> XML and Jetpack Compose </h4>
-<h4 align="center"> Retrofit2, OkHTTP3, Firebase </h4>
-<h4 align="center"> Coroutines </h4>
-<h4 align="center"> Koin, Dagger </h4>
-<h4 align="center"> Clean Architecture(with MVVM) </h4>
-<h4 align="center"> Base knowledges of SQL(PostgreSQL, MySQL) </h4>
+<h4 align="center"> Retrofit, Ktor | OkHTTP, CIO </h4>
+<h4 align="center"> Coroutines, RxJava(not really) </h4>
+<h4 align="center"> Koin, Hilt/Dagger 2 </h4>
+<h4 align="center"> Clean Architecture(with MVVM 90%, 10% - MVI, MVP, MVC) </h4>
+<h4 align="center"> Base knowledges of SQL(SQLite, PostgreSQL, MySQL) </h4>
 <h4 align="center"> Navigation Components </h4>
 <h4 align="center"> Git, Jira </h4>
 
 <h2 align="center"> </h2>
 <h1 align="center"> Soft skills: </h1>
 
-<h4 align="center"> English B2 (Upper-Intermediate) </h4>
+<h4 align="center"> English B2-C1 (smth between) </h4>
 <h4 align="center"> Russian C2 (Native) </h4>
 <h4 align="center"> Sociable, communicative </h4>
 <h4 align="center"> Ambitious and learn fast </h4>
@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently delving in Clean Architecture and Coroutines
 - 📫 How to reach me: https://t.me/truejke
-- ⚡ Fun fact: apex legends e-sports player
+- ⚡ Fun fact: ex apex legends e-sports player
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=My+LeetCode+stats%3A)](https://git.io/typing-svg)
 
