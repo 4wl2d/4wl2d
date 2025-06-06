@@ -10,7 +10,7 @@
 <h4 align="center"> Coroutines, RxJava(not really) </h4>
 <h4 align="center"> Koin, Hilt/Dagger 2 </h4>
 <h4 align="center"> Clean Architecture(with MVVM 90%, 10% - MVI, MVP, MVC) </h4>
-<h4 align="center"> Base knowledges of SQL(SQLite, PostgreSQL, MySQL) </h4>
+<h4 align="center"> Room, SQLs = { SQLite, PostgreSQL, MySQL, MSSQL } </h4>
 <h4 align="center"> Navigation Components </h4>
 <h4 align="center"> Git, Jira </h4>
 
