@@ -30,7 +30,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working on myself
+- 🔭 I’m currently working on Korpu
 - 🌱 I’m currently delving in Clean Architecture and Coroutines
 - 📫 How to reach me: https://t.me/truejke
 - ⚡ Fun fact: ex apex legends e-sports player
