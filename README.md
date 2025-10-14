@@ -6,13 +6,15 @@
 
 <h4 align="center"> Android SDK, Android Studio, IntelliJ IDEA </h4>
 <h4 align="center"> XML and Jetpack Compose </h4>
-<h4 align="center"> Retrofit, Ktor | OkHTTP, CIO </h4>
+<h4 align="center"> Apollo GraphQL, Retrofit, Ktor | OkHTTP, CIO </h4>
 <h4 align="center"> Coroutines, RxJava(not really) </h4>
 <h4 align="center"> Koin, Hilt/Dagger 2 </h4>
 <h4 align="center"> Clean Architecture(with MVVM 90%, 10% - MVI, MVP, MVC) </h4>
+<h4 align="center"> SOLID, STUPID, KISS and so on.. </h4>
 <h4 align="center"> Room, SQLs = { SQLite, PostgreSQL, MySQL, MSSQL } </h4>
-<h4 align="center"> Navigation Components </h4>
-<h4 align="center"> Git, Jira </h4>
+<h4 align="center"> Jetpack Navigation, Decompose, Nav. Components </h4>
+<h4 align="center"> Agile, Scrum, Kanban </h4>
+<h4 align="center"> Git, BitBucket, Jira </h4>
 
 <h2 align="center"> </h2>
 <h1 align="center"> Soft skills: </h1>
@@ -36,8 +38,6 @@
 - ⚡ Fun fact: ex apex legends e-sports player
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=My+LeetCode+stats%3A)](https://git.io/typing-svg)
-
-[![4wl2d's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=4wl2d)](https://leetcode.com/4wl2d/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/4wl2d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/4wl2d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/truej33se/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tru33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/4wl2d/)  
 
