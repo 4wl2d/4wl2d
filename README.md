@@ -32,9 +32,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working on Korpu
-- 🌱 I’m currently delving in Clean Architecture and Coroutines
-- 📫 How to reach me: https://t.me/truejke
+- 📫 How to reach me: vladitomilov@gmail.com
 - ⚡ Fun fact: ex apex legends e-sports player
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=My+LeetCode+stats%3A)](https://git.io/typing-svg)
