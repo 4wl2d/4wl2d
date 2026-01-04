@@ -4,17 +4,17 @@
 <h2 align="center"> </h2>
 <h1 align="center"> Hard skills: </h1>
 
-<h4 align="center"> Android SDK, Android Studio, IntelliJ IDEA </h4>
+<h4 align="center"> Android SDK, Kotlin, Java, C++ </h4>
 <h4 align="center"> XML and Jetpack Compose </h4>
-<h4 align="center"> Apollo GraphQL, Retrofit, Ktor | OkHTTP, CIO </h4>
-<h4 align="center"> Coroutines, RxJava(not really) </h4>
-<h4 align="center"> Koin, Hilt/Dagger 2 </h4>
+<h4 align="center"> GraphQL, Ktor, Retrofit, Ktorfit | OkHTTP, CIO </h4>
+<h4 align="center"> Coroutines, Flow, RxJava(not really) </h4>
+<h4 align="center"> Koin, Kodein, Metro, Hilt/Dagger 2 </h4>
 <h4 align="center"> Clean Architecture(with MVVM 90%, 10% - MVI, MVP, MVC) </h4>
-<h4 align="center"> SOLID, STUPID, KISS and so on.. </h4>
+<h4 align="center"> SOLID, STUPID, KISS, DRY, YAGNI, GRASP, POLA, SoC... </h4>
 <h4 align="center"> Room, SQLs = { SQLite, PostgreSQL, MySQL, MSSQL } </h4>
-<h4 align="center"> Jetpack Navigation, Decompose, Nav. Components </h4>
-<h4 align="center"> Agile, Scrum, Kanban </h4>
-<h4 align="center"> Git, BitBucket, Jira </h4>
+<h4 align="center"> Jetpack Navigation 3 and 2, Decompose, Voyager </h4>
+<h4 align="center"> Jira, Agile, Scrum, Kanban, SAFe, LeSS, Nexus, Shape Up </h4>
+<h4 align="center"> Git, BitBucket, Azure DevOps, Gerrit </h4>
 
 <h2 align="center"> </h2>
 <h1 align="center"> Soft skills: </h1>
