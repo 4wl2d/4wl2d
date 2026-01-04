@@ -5,11 +5,11 @@
 <h1 align="center"> Hard skills: </h1>
 
 <h4 align="center"> Android SDK, Kotlin, Java, C++ </h4>
-<h4 align="center"> XML and Jetpack Compose </h4>
-<h4 align="center"> GraphQL, Ktor, Retrofit, Ktorfit | OkHTTP, CIO </h4>
+<h4 align="center"> Jetpack Compose, XML </h4>
+<h4 align="center"> GraphQL, Ktor, Retrofit, Ktorfit | OkHTTP, CIO, Darwin </h4>
 <h4 align="center"> Coroutines, Flow, RxJava(not really) </h4>
 <h4 align="center"> Koin, Kodein, Metro, Hilt/Dagger 2 </h4>
-<h4 align="center"> Clean Architecture(with MVVM 90%, 10% - MVI, MVP, MVC) </h4>
+<h4 align="center"> Clean Architecture(with MVVM 60%, 30% - MVI, MVP, MVC) </h4>
 <h4 align="center"> SOLID, STUPID, KISS, DRY, YAGNI, GRASP, POLA, SoC... </h4>
 <h4 align="center"> Room, SQLs = { SQLite, PostgreSQL, MySQL, MSSQL } </h4>
 <h4 align="center"> Jetpack Navigation 3 and 2, Decompose, Voyager </h4>
