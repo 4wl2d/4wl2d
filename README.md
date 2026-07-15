@@ -1,51 +1,47 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&height=90&lines=Hi+there%2C%F0%9F%91%8Bmy+name+is+Vladislav;I%60m+Android+Developer%F0%9F%93%B1)](https://git.io/typing-svg)
-![I am Android Developer](https://i.postimg.cc/KvRVRcFx/68747470733a2f2f69652e77616d70692e72752f323032332f30342f30382f4e65772d50726f6a6563742e6a7067.png)
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Vladislav Tomilov — Senior Mobile Engineer. Mobile systems, built to endure." width="100%">
+</p>
 
-<h2 align="center"> </h2>
-<h1 align="center"> Hard skills: </h1>
+<p align="center">
+  <a href="https://vladislav-tomilov-mobile.vladitomilov.chatgpt.site/"><img src="https://img.shields.io/badge/Portfolio-0B2721?style=flat-square&amp;logoColor=D6B97C" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/4wl2d/"><img src="https://img.shields.io/badge/LinkedIn-0B2721?style=flat-square&amp;logo=linkedin&amp;logoColor=D6B97C" alt="LinkedIn"></a>
+  <a href="mailto:vladitomilov@gmail.com"><img src="https://img.shields.io/badge/Email-0B2721?style=flat-square&amp;logo=gmail&amp;logoColor=D6B97C" alt="Email"></a>
+</p>
 
-<h4 align="center"> Android SDK, Kotlin, Java, C++ </h4>
-<h4 align="center"> Jetpack Compose, XML </h4>
-<h4 align="center"> GraphQL, Ktor, Retrofit, Ktorfit | OkHTTP, CIO, Darwin </h4>
-<h4 align="center"> Coroutines, Flow, RxJava(not really) </h4>
-<h4 align="center"> Koin, Kodein, Metro, Hilt/Dagger 2 </h4>
-<h4 align="center"> Clean Architecture(with MVVM 60%, 30% - MVI, MVP, MVC) </h4>
-<h4 align="center"> SOLID, STUPID, KISS, DRY, YAGNI, GRASP, POLA, SoC... </h4>
-<h4 align="center"> Room, SQLs = { SQLite, PostgreSQL, MySQL, MSSQL } </h4>
-<h4 align="center"> Jetpack Navigation 3 and 2, Decompose, Voyager </h4>
-<h4 align="center"> Jira, Agile, Scrum, Kanban, SAFe, LeSS, Nexus, Shape Up </h4>
-<h4 align="center"> Git, BitBucket, Azure DevOps, Gerrit </h4>
+<p align="center">
+  I build Android and Kotlin Multiplatform software with explicit boundaries, local-first resilience, and maintainable foundations.
+</p>
 
-<h2 align="center"> </h2>
-<h1 align="center"> Soft skills: </h1>
+<p align="center">
+  Based in Belgrade. Interested in systems that stay understandable as they grow.
+</p>
 
-<h4 align="center"> English B2-C1 (smth between) </h4>
-<h4 align="center"> Russian C2 (Native) </h4>
-<h4 align="center"> Sociable, communicative </h4>
-<h4 align="center"> Ambitious and learn fast </h4>
-<h4 align="center"> Persistent, result-oriented </h4>
-<h2 align="center"> </h2>
+## Selected work
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=Languages+i+prefer%3A)](https://git.io/typing-svg)
+### [KINETICKK](https://github.com/4wl2d/KINETICKK)
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Your movement is the weapon.** A physics-action roguelite powered by one shared Kotlin Multiplatform simulation across desktop and WebAssembly.
 
-- 📫 How to reach me: vladitomilov@gmail.com
-- ⚡ Fun fact: ex apex legends e-sports player
+<code>Kotlin Multiplatform</code> · <code>Compose</code> · <code>WebAssembly</code>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=500&color=000000&background=FFFFFF&center=true&multiline=true&repeat=false&width=1000&lines=My+LeetCode+stats%3A)](https://git.io/typing-svg)
+### [Pokeball](https://github.com/4wl2d/Pokeball)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/4wl2d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/4wl2d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/truej33se/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tru33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/4wl2d/)  
+**Architecture with explicit authority.** A specification, not a framework, for state-owning functional modules, pure bounded decisions, closed typed protocols, and evidence-qualified guarantees.
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<code>Architecture</code> · <code>State</code> · <code>Typed protocols</code>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=4wl2d)
+### [Veqri](https://github.com/4wl2d/Veqri)
 
-![Top Langs](https://github-readme-stats-4wl2d.vercel.app/api/top-langs/?username=4wl2d)
+**Local-first agents, durable state, explicit approval.** A personal AI orchestrator with a Go core, Android client, desktop companion, durable task runtime, and approval-gated tools.
 
-![GitHub stats](https://github-readme-stats-4wl2d.vercel.app/api?username=4wl2d&show_icons=true)  
+<code>Go</code> · <code>Android</code> · <code>Local-first AI</code>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=4wl2d)  
+## Engineering principles
 
+- **Make ownership explicit.** State, authority, and side effects should have clear homes.
+- **Design for change.** Boundaries and protocols should evolve without spreading accidental complexity.
+- **Treat guarantees as claims.** Reliability, security, and performance deserve evidence.
+
+## Let’s talk
+
+If you are working on a difficult mobile or systems problem, reach me at [vladitomilov@gmail.com](mailto:vladitomilov@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/4wl2d/).

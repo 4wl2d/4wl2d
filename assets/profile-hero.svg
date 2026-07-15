@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Vladislav Tomilov — Mobile systems, built to endure</title>
+  <desc id="desc">A dark green and warm gold profile banner with an abstract systems orbit.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061714"/>
+      <stop offset="0.58" stop-color="#0A211C"/>
+      <stop offset="1" stop-color="#102C25"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#D6B97C" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#D6B97C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B99258"/>
+      <stop offset="1" stop-color="#E3CC98"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#B9D0C6" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#D6B97C" stroke-opacity="0.24"/>
+  <path d="M0 355C248 315 393 397 636 356C853 319 999 258 1200 290V420H0Z" fill="#D6B97C" opacity="0.035"/>
+
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="72" y="82" fill="#D6B97C" font-size="17" font-weight="650" letter-spacing="5.5">VLADISLAV TOMILOV</text>
+    <rect x="72" y="104" width="78" height="3" rx="1.5" fill="url(#accent)"/>
+
+    <text x="72" y="174" fill="#F5F1E7" font-size="52" font-weight="720" letter-spacing="-1.4">Mobile systems,</text>
+    <text x="72" y="235" fill="#F5F1E7" font-size="52" font-weight="720" letter-spacing="-1.4">built to endure.</text>
+
+    <text x="74" y="284" fill="#AFC5BB" font-size="16" font-weight="500" letter-spacing="1.15">SENIOR MOBILE ENGINEER  /  ANDROID  /  KOTLIN MULTIPLATFORM</text>
+
+    <line x1="72" y1="330" x2="575" y2="330" stroke="#C7D8D0" stroke-opacity="0.17"/>
+    <circle cx="77" cy="365" r="3.5" fill="#D6B97C"/>
+    <text x="93" y="371" fill="#839E93" font-size="14" font-weight="520" letter-spacing="2.2">4WL2D  ·  BELGRADE  ·  ENGINEERING IN PROPORTION</text>
+  </g>
+
+  <g transform="translate(936 210)">
+    <circle r="174" fill="url(#halo)"/>
+    <circle r="145" fill="none" stroke="#D8E3DE" stroke-opacity="0.12"/>
+    <circle r="110" fill="none" stroke="#D6B97C" stroke-opacity="0.4" stroke-dasharray="2 11"/>
+    <circle r="72" fill="none" stroke="#D8E3DE" stroke-opacity="0.18"/>
+
+    <path d="M-145 0A145 145 0 0 1 0-145" fill="none" stroke="#D6B97C" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M110 0A110 110 0 0 1 0 110" fill="none" stroke="#84A99A" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-51 51A72 72 0 0 1 51-51" fill="none" stroke="#F5F1E7" stroke-opacity="0.42" stroke-width="1.5"/>
+
+    <line x1="-171" y1="0" x2="171" y2="0" stroke="#D8E3DE" stroke-opacity="0.08"/>
+    <line x1="0" y1="-171" x2="0" y2="171" stroke="#D8E3DE" stroke-opacity="0.08"/>
+
+    <circle r="44" fill="#0B211C" stroke="#D6B97C" stroke-opacity="0.72"/>
+    <circle r="36" fill="none" stroke="#D8E3DE" stroke-opacity="0.12"/>
+    <text x="0" y="8" text-anchor="middle" fill="#F5F1E7" font-family="Inter, ui-sans-serif, sans-serif" font-size="25" font-weight="720" letter-spacing="-1">4w</text>
+
+    <g filter="url(#glow)">
+      <circle cx="0" cy="-145" r="5" fill="#D6B97C"/>
+      <circle cx="110" cy="0" r="4" fill="#89AA9D"/>
+      <circle cx="-51" cy="51" r="4" fill="#F5F1E7"/>
+    </g>
+
+    <g fill="#AFC5BB" font-family="Inter, ui-sans-serif, sans-serif" font-size="11" font-weight="600" letter-spacing="1.8">
+      <text x="14" y="-139">STATE</text>
+      <text x="116" y="5">EFFECT</text>
+      <text x="-104" y="69">SYSTEM</text>
+    </g>
+  </g>
+
+  <g opacity="0.48">
+    <rect x="1154" y="60" width="4" height="74" rx="2" fill="#D6B97C"/>
+    <rect x="1154" y="143" width="4" height="22" rx="2" fill="#AFC5BB"/>
+    <rect x="1154" y="174" width="4" height="46" rx="2" fill="#AFC5BB"/>
+  </g>
+</svg>
