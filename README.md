@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Vladislav Tomilov — Senior Mobile Engineer. Mobile systems, built to endure." width="100%">
+  <img src="./assets/profile-hero.svg?v=2" alt="Vladislav Tomilov (@4wl2d), Senior Mobile Engineer." width="100%">
 </p>
 
 <p align="center">
