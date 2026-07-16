@@ -36,12 +36,6 @@
 
 <code>Go</code> · <code>Android</code> · <code>Local-first AI</code>
 
-## Engineering principles
-
-- **Make ownership explicit.** State, authority, and side effects should have clear homes.
-- **Design for change.** Boundaries and protocols should evolve without spreading accidental complexity.
-- **Treat guarantees as claims.** Reliability, security, and performance deserve evidence.
-
 ## Let’s talk
 
 If you are working on a difficult mobile or systems problem, reach me at [vladitomilov@gmail.com](mailto:vladitomilov@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/4wl2d/).
