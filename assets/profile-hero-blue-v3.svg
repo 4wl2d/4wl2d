@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Vladislav Tomilov, 4wl2d, Senior Mobile Engineer</title>
+  <title id="title">Vladislav Tomilov, 4wl2d, Lead Software Engineer</title>
   <desc id="desc">A concise deep-blue profile banner with a rotated blue Poké Ball and the small curved label .tomilov.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -41,8 +41,8 @@
 
     <text x="98" y="174" fill="#F0F6FC" font-size="51" font-weight="730" letter-spacing="-1.2">Vladislav Tomilov</text>
 
-    <text x="100" y="230" fill="#C9D1D9" font-size="23" font-weight="600">Senior Mobile Engineer</text>
-    <text x="100" y="276" fill="#8C959F" font-size="16" font-weight="560" letter-spacing="1.2">ANDROID  ·  KOTLIN MULTIPLATFORM  ·  ARCHITECTURE</text>
+    <text x="100" y="230" fill="#C9D1D9" font-size="23" font-weight="600">Lead Software Engineer</text>
+    <text x="100" y="276" fill="#8C959F" font-size="16" font-weight="560" letter-spacing="1.2">MOBILE  ·  ANY LANGUAGE  ·  ARCHITECTURE</text>
 
     <line x1="100" y1="314" x2="596" y2="314" stroke="url(#accentLine)"/>
     <text x="100" y="354" fill="#8C959F" font-size="14" font-weight="560" letter-spacing="2.2">BELGRADE, SERBIA  ·  6+ YEARS</text>
@@ -63,7 +63,7 @@
     <circle r="138" fill="none" stroke="#58A6FF" stroke-width="3"/>
     <circle r="143" fill="none" stroke="#30363D" stroke-width="2"/>
 
-    <path id="nicknameArc" d="M34 34A120 120 0 0 0 118 72" fill="none"/>
+    <path id="nicknameArc" d="M39 114A120 120 0 0 0 114 39" fill="none"/>
     <text fill="#F0F6FC" opacity="0.48" font-family="Inter, ui-sans-serif, sans-serif" font-size="13" font-weight="650" letter-spacing="2.4">
       <textPath href="#nicknameArc" startOffset="52%" text-anchor="middle">.tomilov</textPath>
     </text>

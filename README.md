@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero-blue-v2.svg" alt="Vladislav Tomilov (@4wl2d), Senior Mobile Engineer." width="100%">
+  <img src="./assets/profile-hero-blue-v3.svg" alt="Vladislav Tomilov (@4wl2d), Lead Software Engineer." width="100%">
 </p>
 
 <p align="center">
