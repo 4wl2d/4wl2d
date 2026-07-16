@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-hero-blue.svg" alt="Vladislav Tomilov (@4wl2d), Senior Mobile Engineer." width="100%">
+  <img src="./assets/profile-hero-blue-v2.svg" alt="Vladislav Tomilov (@4wl2d), Senior Mobile Engineer." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://vladislav-tomilov-mobile.vladitomilov.chatgpt.site/"><img src="https://img.shields.io/badge/Portfolio-0B2721?style=flat-square&amp;logoColor=D6B97C" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/4wl2d/"><img src="https://img.shields.io/badge/LinkedIn-0B2721?style=flat-square&amp;logo=linkedin&amp;logoColor=D6B97C" alt="LinkedIn"></a>
-  <a href="mailto:vladitomilov@gmail.com"><img src="https://img.shields.io/badge/Email-0B2721?style=flat-square&amp;logo=gmail&amp;logoColor=D6B97C" alt="Email"></a>
+  <a href="https://vladislav-tomilov-mobile.vladitomilov.chatgpt.site/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&amp;logoColor=F0F6FC" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/4wl2d/"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=flat-square&amp;logo=linkedin&amp;logoColor=F0F6FC" alt="LinkedIn"></a>
+  <a href="mailto:vladitomilov@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&amp;logo=gmail&amp;logoColor=F0F6FC" alt="Email"></a>
 </p>
 
 <p align="center">
