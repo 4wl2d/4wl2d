@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I build Android and Kotlin Multiplatform software with explicit boundaries, local-first resilience, and maintainable foundations.
+  I build apps.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ෴ ҉҉ ҉҉෴
 </p>
 
 <p align="center">
